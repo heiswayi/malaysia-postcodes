@@ -1,27 +1,31 @@
 # Malaysia Postcodes
 
-A huge list of postcodes in Malaysia.
+A huge list of Malaysia postcodes in a single file: [ALL-POSTCODES.csv](ALL-POSTCODES.csv)
 
 Postcodes are displayed in **CSV** ("Comma Separated Values") in these following formats:-
 ```
 "POSTCODE","ADDRESS","CITY","STATE"
 ```
 
-### Sort by STATE on GitHub Gist
+## Individual States
 
-* [Perlis](https://gist.github.com/heiswayi/6526739c5bb314aa9f22)
-* [Kedah](https://gist.github.com/heiswayi/8b30340eb86d44a11954)
-* [Penang / Pulau Pinang](https://gist.github.com/heiswayi/161cdfe1982158f6a8d9)
-* [Kelantan](https://gist.github.com/heiswayi/5439f3f5d93d0e8d0099)
-* [Terengganu](https://gist.github.com/heiswayi/2a748d6d7839596959f8)
-* [Pahang](https://gist.github.com/heiswayi/cdd8054a6c591d5b13b9)
-* [Perak](https://gist.github.com/heiswayi/d4715642e7c45cc3f38c)
-* [Selangor](https://gist.github.com/heiswayi/a2536403a03d3f633e52)
-* [Kuala Lumpur](https://gist.github.com/heiswayi/49b90456213e5c0cdfce)
-* [Putrajaya](https://gist.github.com/heiswayi/53b7807669cdca612ec5)
-* [Negeri Sembilan](https://gist.github.com/heiswayi/9d67d4d68e2acb7e14da)
-* [Melaka](https://gist.github.com/heiswayi/e5899150abd77c2f5e0c)
-* [Johor](https://gist.github.com/heiswayi/089f9fb9a1348c4f27d2)
-* [Labuan](https://gist.github.com/heiswayi/157ed58a5051675dce56)
-* [Sabah](https://gist.github.com/heiswayi/8a4bdebbb34406d56b2a)
-* [Sarawak](https://gist.github.com/heiswayi/079054f306e6d4b78b43)
+* [Perlis](perlis.csv) 01000 - 02800
+* [Kedah](kedah.csv) 05000 - 09810
+* [Penang / Pulau Pinang](penang.csv) 10000 - 14400
+* [Kelantan](kelantan.csv) 15000 - 18500
+* [Terengganu](terengganu.csv) 20000 - 243000
+* [Pahang](pahang.csv) 25000 - 28800 | 39000 - 39200 | 49000, 69000
+* [Perak](perak.csv) 30000 - 36810
+* [Selangor](selangor.csv) 40000 - 48300 | 63000 - 68100
+* [Kuala Lumpur](kuala_lumpur.csv) 50000 - 60000
+* [Putrajaya](putrajaya.csv) 62000 - 62988
+* [Negeri Sembilan](negeri_sembilan.csv) 70000 - 73509
+* [Melaka](melaka.csv) 75000 - 78309
+* [Johor](johor.csv) 79000 - 86900
+* [Labuan](labuan.csv) 87000 - 87033
+* [Sabah](sabah.csv) 88000 - 91309
+* [Sarawak](sarawak.csv) 93000 - 98859
+
+---
+
+Sorted by Heiswayi Nrird
