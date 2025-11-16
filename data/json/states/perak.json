@@ -1,0 +1,600 @@
+{
+  "name": "Perak",
+  "code": "PRK",
+  "cities": [
+    {
+      "name": "Ayer Tawar",
+      "postcodes": [
+        "32400"
+      ]
+    },
+    {
+      "name": "Bagan Datoh",
+      "postcodes": [
+        "36100"
+      ]
+    },
+    {
+      "name": "Bagan Serai",
+      "postcodes": [
+        "34300",
+        "34310"
+      ]
+    },
+    {
+      "name": "Bandar Seri Iskandar",
+      "postcodes": [
+        "32610"
+      ]
+    },
+    {
+      "name": "Batu Gajah",
+      "postcodes": [
+        "31000",
+        "31007",
+        "31009"
+      ]
+    },
+    {
+      "name": "Batu Kurau",
+      "postcodes": [
+        "34500",
+        "34510",
+        "34520"
+      ]
+    },
+    {
+      "name": "Behrang Stesen",
+      "postcodes": [
+        "35950"
+      ]
+    },
+    {
+      "name": "Bidor",
+      "postcodes": [
+        "35500"
+      ]
+    },
+    {
+      "name": "Bota",
+      "postcodes": [
+        "32600"
+      ]
+    },
+    {
+      "name": "Bruas",
+      "postcodes": [
+        "32700"
+      ]
+    },
+    {
+      "name": "Changkat Jering",
+      "postcodes": [
+        "34850"
+      ]
+    },
+    {
+      "name": "Changkat Keruing",
+      "postcodes": [
+        "32500"
+      ]
+    },
+    {
+      "name": "Chemor",
+      "postcodes": [
+        "31200"
+      ]
+    },
+    {
+      "name": "Chenderiang",
+      "postcodes": [
+        "35300"
+      ]
+    },
+    {
+      "name": "Chenderong Balai",
+      "postcodes": [
+        "36600"
+      ]
+    },
+    {
+      "name": "Chikus",
+      "postcodes": [
+        "36750"
+      ]
+    },
+    {
+      "name": "Enggor",
+      "postcodes": [
+        "33600"
+      ]
+    },
+    {
+      "name": "Gerik",
+      "postcodes": [
+        "33300",
+        "33310",
+        "33320"
+      ]
+    },
+    {
+      "name": "Gopeng",
+      "postcodes": [
+        "31600",
+        "31610"
+      ]
+    },
+    {
+      "name": "Hutan Melintang",
+      "postcodes": [
+        "36400"
+      ]
+    },
+    {
+      "name": "Intan",
+      "postcodes": [
+        "33200"
+      ]
+    },
+    {
+      "name": "Ipoh",
+      "postcodes": [
+        "30000",
+        "30010",
+        "30020",
+        "30100",
+        "30200",
+        "30205",
+        "30250",
+        "30300",
+        "30350",
+        "30400",
+        "30450",
+        "30500",
+        "30502",
+        "30503",
+        "30504",
+        "30505",
+        "30506",
+        "30508",
+        "30510",
+        "30512",
+        "30516",
+        "30517",
+        "30518",
+        "30519",
+        "30520",
+        "30524",
+        "30532",
+        "30534",
+        "30536",
+        "30540",
+        "30542",
+        "30546",
+        "30548",
+        "30550",
+        "30551",
+        "30552",
+        "30554",
+        "30556",
+        "30560",
+        "30564",
+        "30570",
+        "30576",
+        "30580",
+        "30582",
+        "30586",
+        "30590",
+        "30592",
+        "30594",
+        "30596",
+        "30600",
+        "30604",
+        "30606",
+        "30609",
+        "30610",
+        "30612",
+        "30614",
+        "30620",
+        "30621",
+        "30622",
+        "30626",
+        "30628",
+        "30630",
+        "30632",
+        "30634",
+        "30644",
+        "30646",
+        "30648",
+        "30656",
+        "30658",
+        "30660",
+        "30661",
+        "30662",
+        "30664",
+        "30668",
+        "30670",
+        "30673",
+        "30674",
+        "30676",
+        "30682",
+        "30690",
+        "30700",
+        "30710",
+        "30720",
+        "30730",
+        "30740",
+        "30750",
+        "30760",
+        "30770",
+        "30780",
+        "30790",
+        "30800",
+        "30810",
+        "30820",
+        "30830",
+        "30840",
+        "30900",
+        "30902",
+        "30904",
+        "30906",
+        "30908",
+        "30910",
+        "30912",
+        "30988",
+        "30990",
+        "31350",
+        "31400",
+        "31407",
+        "31409",
+        "31450",
+        "31500",
+        "31650",
+        "31672"
+      ]
+    },
+    {
+      "name": "Jeram",
+      "postcodes": [
+        "31850"
+      ]
+    },
+    {
+      "name": "Kampar",
+      "postcodes": [
+        "31900",
+        "31907",
+        "31909",
+        "31910",
+        "31920",
+        "31950"
+      ]
+    },
+    {
+      "name": "Kampung Gajah",
+      "postcodes": [
+        "36800",
+        "36810"
+      ]
+    },
+    {
+      "name": "Kampung Kepayang",
+      "postcodes": [
+        "31300"
+      ]
+    },
+    {
+      "name": "Kamunting",
+      "postcodes": [
+        "34600"
+      ]
+    },
+    {
+      "name": "Kuala Kangsar",
+      "postcodes": [
+        "33000",
+        "33007",
+        "33009",
+        "33010",
+        "33020",
+        "33030",
+        "33040"
+      ]
+    },
+    {
+      "name": "Kuala Kurau",
+      "postcodes": [
+        "34350"
+      ]
+    },
+    {
+      "name": "Kuala Sepetang",
+      "postcodes": [
+        "34650"
+      ]
+    },
+    {
+      "name": "Lambor Kanan",
+      "postcodes": [
+        "32900",
+        "32999"
+      ]
+    },
+    {
+      "name": "Langkap",
+      "postcodes": [
+        "36700"
+      ]
+    },
+    {
+      "name": "Lenggong",
+      "postcodes": [
+        "33400",
+        "33410",
+        "33420"
+      ]
+    },
+    {
+      "name": "Lumut",
+      "postcodes": [
+        "32200"
+      ]
+    },
+    {
+      "name": "Malim Nawar",
+      "postcodes": [
+        "31700"
+      ]
+    },
+    {
+      "name": "Manong",
+      "postcodes": [
+        "33800"
+      ]
+    },
+    {
+      "name": "Matang",
+      "postcodes": [
+        "34750"
+      ]
+    },
+    {
+      "name": "Padang Rengas",
+      "postcodes": [
+        "33700"
+      ]
+    },
+    {
+      "name": "Pangkor",
+      "postcodes": [
+        "32300"
+      ]
+    },
+    {
+      "name": "Pantai Remis",
+      "postcodes": [
+        "34900",
+        "34910"
+      ]
+    },
+    {
+      "name": "Parit",
+      "postcodes": [
+        "32800",
+        "32810"
+      ]
+    },
+    {
+      "name": "Parit Buntar",
+      "postcodes": [
+        "34200"
+      ]
+    },
+    {
+      "name": "Pengkalan Hulu",
+      "postcodes": [
+        "33100"
+      ]
+    },
+    {
+      "name": "Pusing",
+      "postcodes": [
+        "31550",
+        "31560"
+      ]
+    },
+    {
+      "name": "Rantau Panjang",
+      "postcodes": [
+        "34140"
+      ]
+    },
+    {
+      "name": "Sauk",
+      "postcodes": [
+        "33500"
+      ]
+    },
+    {
+      "name": "Selama",
+      "postcodes": [
+        "34100",
+        "34120",
+        "34130"
+      ]
+    },
+    {
+      "name": "Selekoh",
+      "postcodes": [
+        "36200",
+        "36207",
+        "36209"
+      ]
+    },
+    {
+      "name": "Seri Manjung",
+      "postcodes": [
+        "32040",
+        "32050"
+      ]
+    },
+    {
+      "name": "Simpang",
+      "postcodes": [
+        "34700"
+      ]
+    },
+    {
+      "name": "Simpang Ampat Semanggol",
+      "postcodes": [
+        "34400"
+      ]
+    },
+    {
+      "name": "Sitiawan",
+      "postcodes": [
+        "32000",
+        "32010",
+        "32020"
+      ]
+    },
+    {
+      "name": "Slim River",
+      "postcodes": [
+        "35800",
+        "35820"
+      ]
+    },
+    {
+      "name": "Sungai Siput",
+      "postcodes": [
+        "31050",
+        "31100",
+        "31120"
+      ]
+    },
+    {
+      "name": "Sungai Sumun",
+      "postcodes": [
+        "36300",
+        "36307",
+        "36309"
+      ]
+    },
+    {
+      "name": "Sungkai",
+      "postcodes": [
+        "35600"
+      ]
+    },
+    {
+      "name": "TLDM Lumut",
+      "postcodes": [
+        "32100"
+      ]
+    },
+    {
+      "name": "Taiping",
+      "postcodes": [
+        "34000",
+        "34007",
+        "34008",
+        "34009",
+        "34010",
+        "34020",
+        "34030"
+      ]
+    },
+    {
+      "name": "Tanjong Malim",
+      "postcodes": [
+        "35900",
+        "35907",
+        "35909",
+        "35910"
+      ]
+    },
+    {
+      "name": "Tanjong Piandang",
+      "postcodes": [
+        "34250"
+      ]
+    },
+    {
+      "name": "Tanjong Rambutan",
+      "postcodes": [
+        "31250"
+      ]
+    },
+    {
+      "name": "Tanjong Tualang",
+      "postcodes": [
+        "31800"
+      ]
+    },
+    {
+      "name": "Tapah",
+      "postcodes": [
+        "35000",
+        "35007",
+        "35009"
+      ]
+    },
+    {
+      "name": "Tapah Road",
+      "postcodes": [
+        "35400"
+      ]
+    },
+    {
+      "name": "Teluk Intan",
+      "postcodes": [
+        "36000",
+        "36007",
+        "36008",
+        "36009",
+        "36010",
+        "36020",
+        "36030",
+        "36110"
+      ]
+    },
+    {
+      "name": "Temoh",
+      "postcodes": [
+        "35350"
+      ]
+    },
+    {
+      "name": "Trolak",
+      "postcodes": [
+        "35700"
+      ]
+    },
+    {
+      "name": "Trong",
+      "postcodes": [
+        "34800"
+      ]
+    },
+    {
+      "name": "Tronoh",
+      "postcodes": [
+        "31750"
+      ]
+    },
+    {
+      "name": "Ulu Bernam",
+      "postcodes": [
+        "36500"
+      ]
+    },
+    {
+      "name": "Ulu Kinta",
+      "postcodes": [
+        "31150",
+        "31199"
+      ]
+    }
+  ]
+}
