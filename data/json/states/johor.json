@@ -4,27 +4,40 @@
   "cities": [
     {
       "name": "Ayer Baloi",
-      "postcodes": ["82100"]
+      "postcodes": [
+        "82100"
+      ]
     },
     {
       "name": "Ayer Hitam",
-      "postcodes": ["86100"]
+      "postcodes": [
+        "86100"
+      ]
     },
     {
       "name": "Ayer Tawar 2",
-      "postcodes": ["81920"]
+      "postcodes": [
+        "81920"
+      ]
     },
     {
       "name": "Bandar Penawar",
-      "postcodes": ["81930", "81960"]
+      "postcodes": [
+        "81930",
+        "81960"
+      ]
     },
     {
       "name": "Bandar Tenggara",
-      "postcodes": ["81440"]
+      "postcodes": [
+        "81440"
+      ]
     },
     {
       "name": "Batu Anam",
-      "postcodes": ["85100"]
+      "postcodes": [
+        "85100"
+      ]
     },
     {
       "name": "Batu Pahat",
@@ -40,43 +53,66 @@
     },
     {
       "name": "Bekok",
-      "postcodes": ["86500"]
+      "postcodes": [
+        "86500"
+      ]
     },
     {
       "name": "Benut",
-      "postcodes": ["82200"]
+      "postcodes": [
+        "82200"
+      ]
     },
     {
       "name": "Bukit Gambir",
-      "postcodes": ["84800"]
+      "postcodes": [
+        "84800"
+      ]
     },
     {
       "name": "Bukit Pasir",
-      "postcodes": ["84300"]
+      "postcodes": [
+        "84300"
+      ]
     },
     {
       "name": "Chaah",
-      "postcodes": ["85400"]
+      "postcodes": [
+        "85400"
+      ]
     },
     {
       "name": "Endau",
-      "postcodes": ["86900", "86999"]
+      "postcodes": [
+        "86900",
+        "86999"
+      ]
     },
     {
       "name": "Gelang Patah",
-      "postcodes": ["81550", "81560"]
+      "postcodes": [
+        "81550",
+        "81560"
+      ]
     },
     {
       "name": "Gerisek",
-      "postcodes": ["84700", "84710"]
+      "postcodes": [
+        "84700",
+        "84710"
+      ]
     },
     {
       "name": "Gugusan Taib Andak",
-      "postcodes": ["81450"]
+      "postcodes": [
+        "81450"
+      ]
     },
     {
       "name": "Ibrahim International Business District",
-      "postcodes": ["80888"]
+      "postcodes": [
+        "80888"
+      ]
     },
     {
       "name": "Iskandar Puteri",
@@ -129,7 +165,10 @@
     },
     {
       "name": "Jementah",
-      "postcodes": ["85200", "85210"]
+      "postcodes": [
+        "85200",
+        "85210"
+      ]
     },
     {
       "name": "Johor Bahru",
@@ -230,39 +269,67 @@
     },
     {
       "name": "Kahang",
-      "postcodes": ["86700"]
+      "postcodes": [
+        "86700"
+      ]
     },
     {
       "name": "Kluang",
-      "postcodes": ["86000", "86007"]
+      "postcodes": [
+        "86000",
+        "86007"
+      ]
     },
     {
       "name": "Kota Tinggi",
-      "postcodes": ["81900", "81907", "81910"]
+      "postcodes": [
+        "81900",
+        "81907",
+        "81910"
+      ]
     },
     {
       "name": "Kukup",
-      "postcodes": ["82300"]
+      "postcodes": [
+        "82300"
+      ]
     },
     {
       "name": "Kulai",
-      "postcodes": ["81000", "81010", "81020", "81030", "81040", "81050"]
+      "postcodes": [
+        "81000",
+        "81010",
+        "81020",
+        "81030",
+        "81040",
+        "81050"
+      ]
     },
     {
       "name": "Labis",
-      "postcodes": ["85300"]
+      "postcodes": [
+        "85300"
+      ]
     },
     {
       "name": "Layang-Layang",
-      "postcodes": ["81850"]
+      "postcodes": [
+        "81850"
+      ]
     },
     {
       "name": "Masai",
-      "postcodes": ["81750", "81760"]
+      "postcodes": [
+        "81750",
+        "81760"
+      ]
     },
     {
       "name": "Mersing",
-      "postcodes": ["86800", "86810"]
+      "postcodes": [
+        "86800",
+        "86810"
+      ]
     },
     {
       "name": "Muar",
@@ -282,51 +349,81 @@
     },
     {
       "name": "Pagoh",
-      "postcodes": ["84600"]
+      "postcodes": [
+        "84600"
+      ]
     },
     {
       "name": "Paloh",
-      "postcodes": ["86600"]
+      "postcodes": [
+        "86600"
+      ]
     },
     {
       "name": "Panchor",
-      "postcodes": ["84500"]
+      "postcodes": [
+        "84500"
+      ]
     },
     {
       "name": "Parit Jawa",
-      "postcodes": ["84150", "84160"]
+      "postcodes": [
+        "84150",
+        "84160"
+      ]
     },
     {
       "name": "Parit Raja",
-      "postcodes": ["86400"]
+      "postcodes": [
+        "86400"
+      ]
     },
     {
       "name": "Parit Sulong",
-      "postcodes": ["83500"]
+      "postcodes": [
+        "83500"
+      ]
     },
     {
       "name": "Pasir Gudang",
-      "postcodes": ["81700"]
+      "postcodes": [
+        "81700"
+      ]
     },
     {
       "name": "Pekan Nenas",
-      "postcodes": ["81500"]
+      "postcodes": [
+        "81500"
+      ]
     },
     {
       "name": "Pengerang",
-      "postcodes": ["81600", "81620", "81650"]
+      "postcodes": [
+        "81600",
+        "81620",
+        "81650"
+      ]
     },
     {
       "name": "Pontian",
-      "postcodes": ["82000", "82010", "82020", "82030"]
+      "postcodes": [
+        "82000",
+        "82010",
+        "82020",
+        "82030"
+      ]
     },
     {
       "name": "Rengam",
-      "postcodes": ["86300"]
+      "postcodes": [
+        "86300"
+      ]
     },
     {
       "name": "Rengit",
-      "postcodes": ["83100"]
+      "postcodes": [
+        "83100"
+      ]
     },
     {
       "name": "Segamat",
@@ -342,47 +439,75 @@
     },
     {
       "name": "Semerah",
-      "postcodes": ["83600", "83610"]
+      "postcodes": [
+        "83600",
+        "83610"
+      ]
     },
     {
       "name": "Senai",
-      "postcodes": ["81400", "81410"]
+      "postcodes": [
+        "81400",
+        "81410"
+      ]
     },
     {
       "name": "Senggarang",
-      "postcodes": ["83200"]
+      "postcodes": [
+        "83200"
+      ]
     },
     {
       "name": "Seri Gading",
-      "postcodes": ["83300"]
+      "postcodes": [
+        "83300"
+      ]
     },
     {
       "name": "Seri Medan",
-      "postcodes": ["83400"]
+      "postcodes": [
+        "83400"
+      ]
     },
     {
       "name": "Simpang Rengam",
-      "postcodes": ["86200"]
+      "postcodes": [
+        "86200"
+      ]
     },
     {
       "name": "Sungai Mati",
-      "postcodes": ["84400", "84409"]
+      "postcodes": [
+        "84400",
+        "84409"
+      ]
     },
     {
       "name": "Tangkak",
-      "postcodes": ["84900", "84990"]
+      "postcodes": [
+        "84900",
+        "84990"
+      ]
     },
     {
       "name": "Tioman",
-      "postcodes": ["86800"]
+      "postcodes": [
+        "86800"
+      ]
     },
     {
       "name": "Ulu Tiram",
-      "postcodes": ["81800", "81810"]
+      "postcodes": [
+        "81800",
+        "81810"
+      ]
     },
     {
       "name": "Yong Peng",
-      "postcodes": ["83700", "83710"]
+      "postcodes": [
+        "83700",
+        "83710"
+      ]
     }
   ]
 }
